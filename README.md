@@ -1,5 +1,6 @@
 # ShadowBlocks
-A Java based puzzle solving arcade game
+A Java based puzzle solving arcade game.
+Uses Java and Slick2d libraries.
 
 To play: (For Windows)
 
