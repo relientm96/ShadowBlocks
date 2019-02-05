@@ -7,10 +7,10 @@ To play: (For Windows)
 1. Download/Clone the repository
 2. Run the ShadowBlocks executable 
 
-Game Menu
+##Game Menu
 
 ![alt text](images/mainGamePage.JPG)
 
-First Level
+##First Level
 
 ![alt text](images/firstLevel.JPG)
