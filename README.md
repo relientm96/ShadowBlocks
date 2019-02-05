@@ -3,7 +3,7 @@ A Java based puzzle solving arcade game.
 Uses Java and Slick2d libraries. 
 
 To play: (For Windows)
-*Requires Java Runtime Environment to run
+*Requires Java Runtime Environment to run*
 1. Download/Clone the repository
 2. Run the ShadowBlocks executable 
 
