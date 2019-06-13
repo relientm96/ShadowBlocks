@@ -1,5 +1,6 @@
 # ShadowBlocks
 
+## Demo
 ![](shadowBlockDemo.gif)
 
 A Java based puzzle solving arcade game.
@@ -28,8 +29,5 @@ To play: (For Windows)
 *Requires Java Runtime Environment to run*
 1. Download/Clone the repository
 2. Run the ShadowBlocks executable 
-## Game Menu
-
-![alt text](firstLevel.JPG)
 
 
