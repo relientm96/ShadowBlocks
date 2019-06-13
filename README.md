@@ -1,4 +1,7 @@
 # ShadowBlocks
+
+![](shadowBlockDemo.gif)
+
 A Java based puzzle solving arcade game.
 Uses Java and Slick2d libraries. 
 
@@ -6,7 +9,8 @@ Uses Java and Slick2d libraries.
   -- Map Length, Map Width
   Followed by:
   -- spritename, x_location, y_location
-* Uses a Factory Design Pattern to create different sprites on map (in Loader.java)
+* Uses a Factory Design Pattern to create different sprites on map (in 
+Loader.java)
 ```java
 	createObject(String name, float x, float y) {
 		switch (name) {
@@ -24,11 +28,8 @@ To play: (For Windows)
 *Requires Java Runtime Environment to run*
 1. Download/Clone the repository
 2. Run the ShadowBlocks executable 
-
 ## Game Menu
 
-![alt text](images/mainGamePage.JPG)
+![alt text](firstLevel.JPG)
 
-## First Level
 
-![alt text](images/firstLevel.JPG)
